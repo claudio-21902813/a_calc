@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574b</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#5a606f</color>
+    <color name="screen">#505050</color>
+    <color name="clear_delete">#d4d4d2</color>
+    <color name="ops_buttons">#ff9500</color>
+    <color name="numbers">#1c1c1c</color>
+</resources>
